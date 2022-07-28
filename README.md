@@ -3,4 +3,3 @@ Designed an algorithm that can predict the qualifying probability of each team i
 
 
 
-under development
